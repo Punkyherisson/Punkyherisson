@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...[![GitHub Streak](https://streak-stats.demolab.com/?user=Punkyherisson)](https://git.io/streak-stats)
+- ⚡ Fun fact: ...[
+-
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Punkyherisson)](https://git.io/streak-stats)
 
-- 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Punkyherisson&theme=algolia" alt="v" /> <br> 
+  
